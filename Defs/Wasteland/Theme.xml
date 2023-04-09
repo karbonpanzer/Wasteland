@@ -1,0 +1,40 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Wasteland</defName>
+        <label>Music Expanded: Wasteland</label>
+		<iconPath>UI/Icons/Wasteland</iconPath>
+        <description>For those who miss fallout</description>
+        <sounds>
+            <li>ME_Wasteland_Scenario_Begin</li>
+            <li>ME_Wasteland_Quest_Complete</li>
+            <li>ME_Wasteland_Invasion_Alert</li>
+        </sounds>
+        <tracks>
+            <li>ME_WasteLand_AStillness</li>
+            <li>ME_WasteLand_Asphyxiation</li>
+            <li>ME_WasteLand_JustUS</li>
+            <li>ME_WasteLand_ScrapsNMetal</li>
+            <li>ME_WasteLand_SearchingtheWreck</li>
+            <li>ME_WasteLand_Hope</li>
+            <li>ME_WasteLand_TheRoad</li>
+            <li>ME_WasteLand_ABoyandHisDog</li>
+            <li>ME_WasteLand_AQuietMomentInTheRain</li>
+            <li>ME_WasteLand_AncientCitadel</li>
+            <li>ME_WasteLand_CrashLanded</li>
+            <li>ME_WasteLand_DriftingButWhere</li>
+            <li>ME_WasteLand_LostVault</li>
+            <li>ME_WasteLand_NothingButDirt</li>
+            <li>ME_WasteLand_RadioactiveGestalt</li>
+            <li>ME_WasteLand_Survive</li>
+            <li>ME_WasteLand_Township</li>
+            <li>ME_WasteLand_Waiting</li>
+            <li>ME_WasteLand_WhatDayIsIt</li>
+			<!-- Battle Songs -->
+            <li>ME_WasteLand_SmallBattle</li>
+            <li>ME_WasteLand_[FalloutSmallBattle]OncomingStorm</li>
+            <li>ME_WasteLand_MediumBattle</li>
+            <li>ME_WasteLand_LargeBattle</li>
+            <li>ME_WasteLand_LegendaryBattle</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
