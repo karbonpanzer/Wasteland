@@ -3,7 +3,7 @@
         <defName>ME_Wasteland</defName>
         <label>Music Expanded: Wasteland</label>
 		<iconPath>UI/Icons/Wasteland</iconPath>
-        <description>For those who miss fallout</description>
+        <description>This musical space or "paradigm" is that of constant danger looming in the background; vast open areas, isolationist terror, a false sense of safety, dilapidated structures, rugged rustic survivors, and a little bit of cheek and charm that Fallout introduced into their mythos.</description>
         <sounds>
             <li>ME_Wasteland_Scenario_Begin</li>
             <li>ME_Wasteland_Quest_Complete</li>
@@ -31,10 +31,12 @@
             <li>ME_WasteLand_WhatDayIsIt</li>
 			<!-- Battle Songs -->
             <li>ME_WasteLand_SmallBattle</li>
-            <li>ME_WasteLand_[FalloutSmallBattle]OncomingStorm</li>
+            <li>ME_WasteLand_OncomingStorm</li>
             <li>ME_WasteLand_MediumBattle</li>
             <li>ME_WasteLand_LargeBattle</li>
             <li>ME_WasteLand_LegendaryBattle</li>
+			<!-- Credits song -->
+            <li>ME_WasteLand_Credits</li>
         </tracks>
     </MusicExpanded.ThemeDef>
 </Defs>

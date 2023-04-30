@@ -22,7 +22,7 @@
                 <onCamera>True</onCamera>      
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>MusicExpanded\/Wasteland/Wasteland - Quest Complete</clipPath>
+                        <clipPath>MusicExpanded/Wasteland/Wasteland - Quest Complete</clipPath>
                     </li>
                 </grains>      
                 <volumeRange>100~100</volumeRange>

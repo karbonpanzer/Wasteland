@@ -12,7 +12,7 @@
     <MusicExpanded.TrackDef>
         <label>Wasteland - Just Us JME N ReducedReds</label>
         <defName>ME_WasteLand_JustUS</defName>
-        <clipPath>MusicExpanded/Wasteland/Rim Wasteland - Just Us JME N ReducedReds</clipPath>
+        <clipPath>MusicExpanded/Wasteland/Rim Wasteland - Just Us (JME N ReducedReds)</clipPath>
     </MusicExpanded.TrackDef>
     <MusicExpanded.TrackDef>
         <label>Wasteland - Scraps N Metal</label>
@@ -68,6 +68,7 @@
         <label>Wasteland - (Fallout)Lost Vault</label>
         <defName>ME_WasteLand_LostVault</defName>
         <clipPath>MusicExpanded/Wasteland/Rim Wasteland (Fallout) - Lost Vault</clipPath>
+        <cue>MainMenu</cue>
     </MusicExpanded.TrackDef>
     <MusicExpanded.TrackDef>
         <label>Wasteland - (Fallout)Nothing But Dirt</label>
@@ -106,8 +107,8 @@
         <cue>BattleSmall</cue>
     </MusicExpanded.TrackDef>
     <MusicExpanded.TrackDef>
-        <label>Wasteland - [Fallout Small Battle]Oncoming Storm</label>
-        <defName>ME_WasteLand_[FalloutSmallBattle]OncomingStorm</defName>
+        <label>Wasteland - Fallout Small Battle Oncoming Storm</label>
+        <defName>ME_WasteLand_OncomingStorm</defName>
         <clipPath>MusicExpanded/Wasteland/Rim Wasteland (Fallout) - [Small Battle]Oncoming Storm</clipPath>
         <cue>BattleSmall</cue>
     </MusicExpanded.TrackDef>
@@ -118,7 +119,7 @@
         <cue>BattleMedium</cue>
     </MusicExpanded.TrackDef>
     <MusicExpanded.TrackDef>
-        <label>Wasteland - (Fallout)Large Battle</label>
+        <label>Wasteland - Fallout Large Battle</label>
         <defName>ME_WasteLand_LargeBattle</defName>
         <clipPath>MusicExpanded/Wasteland/Rim Wasteland (Fallout)  - Large Battle</clipPath>
         <cue>BattleLarge</cue>
@@ -128,5 +129,11 @@
         <defName>ME_WasteLand_LegendaryBattle</defName>
         <clipPath>MusicExpanded/Wasteland/Rim Wasteland - Legendary Battle</clipPath>
         <cue>BattleLegendary</cue>
-    </MusicExpanded.TrackDef>-->
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Rim_Wasteland - Credits</label>
+        <defName>ME_WasteLand_Credits</defName>
+        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland_-_Credits</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
 </Defs>
