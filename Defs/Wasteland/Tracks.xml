@@ -101,6 +101,26 @@
         <clipPath>MusicExpanded/Wasteland/Rim Wasteland (Fallout) - What Day Is It</clipPath>
     </MusicExpanded.TrackDef>
     <MusicExpanded.TrackDef>
+        <label>Rim_Wasteland - Annihilation Feat User 404</label>
+        <defName>ME_WasteLand_Annihilation_Feat_User_404</defName>
+        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland - Annihilation Feat User 404</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Rim_Wasteland - No One Left to Miss Feat User 404</label>
+        <defName>ME_WasteLand_Annihilation_No_One_Left_to_Miss_Feat_User_404</defName>
+        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland - No One Left to Miss Feat User 404</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Rim_Wasteland - Weed Through the Cracks</label>
+        <defName>ME_WasteLand_Weed_Through_the_Cracks</defName>
+        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland - Weed Through the Cracks</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Rim_Wasteland - You Are Less Alone Than You Think</label>
+        <defName>ME_WasteLand_You_Are_Less_Alone_Than_You_Think</defName>
+        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland - You Are Less Alone Than You Think</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
         <label>Wasteland - (Fallout)Small Battle</label>
         <defName>ME_WasteLand_SmallBattle</defName>
         <clipPath>MusicExpanded/Wasteland/Rim Wasteland (Fallout)  - Small Battle</clipPath>
@@ -133,7 +153,7 @@
     <MusicExpanded.TrackDef>
         <label>Rim_Wasteland - Credits</label>
         <defName>ME_WasteLand_Credits</defName>
-        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland_-_Credits</clipPath>
+        <clipPath>MusicExpanded/Wasteland/Rim_Wasteland - Credits</clipPath>
         <cue>Credits</cue>
     </MusicExpanded.TrackDef>
 </Defs>
